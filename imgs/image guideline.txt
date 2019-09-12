@@ -1,0 +1,2 @@
+Product image size 	:	700 X 400
+Carousel image size	:	900 X 350
